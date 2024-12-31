@@ -3,10 +3,17 @@
 <!-- about me start -->
 # Hi 👋, I'm Muh. Fadjri Taridala
 
-- 🧑‍🎓 **Undergraduate at Halu Oleo University**
-- 🧑‍💼 **Computer science**
-- 🧑‍💻 **Web Developer Enthusiast**
-- 🥷 **open to collaboration and the opportunity to develop more skills**
+- 🔭 I'm currently working on **Front-end Web Development**.
+
+- 👯 I'm looking to collaborate on **Web Development** projects.
+
+- 🤝 I'm looking for help with **Back-End Development**.
+
+- 🎯 I'm focusing on mastering **React** and the **MERN Stack**.
+
+- 🌟 I'm motivated by ***improving 1% every day***.
+
+- 🚀 I'm aiming for **financial freedom**.
 <br><br>
 <!-- about me end -->
 
