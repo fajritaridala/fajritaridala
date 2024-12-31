@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=fajritaridala&icon=6&color=9)](https://visitcount.itsvg.in)
-
 <!-- about me start -->
 # Hi 👋, I'm Muh. Fadjri Taridala
 
@@ -33,5 +31,6 @@
 
 <!-- stats end -->
 
+[![](https://visitcount.itsvg.in/api?id=fajritaridala&icon=6&color=9)](https://visitcount.itsvg.in)
 
 
