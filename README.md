@@ -11,7 +11,7 @@
 
 - 🌟 I'm motivated by ***improving 1% every day***.
 
-- 🚀 I'm aiming for **financial freedom**.
+- 🚀 In the process of creating financial freedom for myself.
 <br><br>
 <!-- about me end -->
 
