@@ -12,7 +12,6 @@
 🎯 I'm playing **Fps** games, like **Delta Force**.
 
 </div>
-<br><br>
 <!-- about me end -->
 
 <!-- tech start -->
