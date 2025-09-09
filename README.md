@@ -1,6 +1,6 @@
 <!-- about me start -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=arial+black&weight=500&size=35&pause=997&color=FE428E&background=141321&center=true&vCenter=true&width=435&height=60&lines=Whats+up+%F0%9F%91%8B%2C+iam;Muh+Fajri+Taridala;Web+enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=arial+black&weight=500&size=35&pause=997&color=FE428E&background=14132100&center=true&vCenter=true&width=435&height=60&lines=Whats+up+%F0%9F%91%8B%2C+iam;Muh+Fajri+Taridala;Web+enthusiast" />
 </div>
 <br>
 
@@ -30,16 +30,14 @@
 
 <div align="center">
 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=fajritaridala&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajritaridala&theme=radical&show_icons=true&hide_border=true&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=fajritaridala&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajritaridala&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=fajritaridala&theme=radical&hide_border=true" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=fajritaridala&theme=dark&hide_border=true" />
 </div>
 
 <!-- stats end -->
-
-[![](https://visitcount.itsvg.in/api?id=fajritaridala&icon=6&color=9)](https://visitcount.itsvg.in)
