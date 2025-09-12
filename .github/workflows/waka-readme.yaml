@@ -3,22 +3,20 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 16 * * *" 
+    - cron: "0 0 * * *" 
 
 jobs:
   update-readme:
-    name: Update WakaTime stats
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    permissions:
-      contents: write 
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Update README with WakaTime stats
-        uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          TIME_RANGE: all_time
-          SHOW_TITLE: true
-          LANG_COUNT: 5
-          SHOW_TOTAL: true
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_EDITORS: "true"       
+          SHOW_LANGUAGE: "true"
+          SHOW_PROJECTS: "true" 
+          SHOW_PROFILE_VIEWS: "true"
+          SHOW_TOTAL: "true"
+          BLOCKS: "░▒▓█"
