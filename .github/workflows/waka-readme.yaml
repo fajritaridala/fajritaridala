@@ -20,5 +20,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
           SHOW_TITLE: true
-          LANG_COUNT: 10
+          LANG_COUNT: 5
           SHOW_TOTAL: true
