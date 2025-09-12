@@ -23,9 +23,7 @@
 <br><br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2052%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2056%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -53,7 +51,7 @@ BackEnd-Acara            28 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/09/2025 10:51:09 UTC
+ Last Updated on 12/09/2025 10:57:08 UTC
 <!--END_SECTION:waka-->
 
 # 📊 Github Stats
