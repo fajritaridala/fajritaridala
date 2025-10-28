@@ -26,18 +26,17 @@
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-TypeScript               3 hrs 7 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      3 hrs 7 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-front-end                2 hrs 40 mins       █████████████████████░░░░   85.33 % 
-back-end                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/10/2025 01:10:42 UTC
+ Last Updated on 28/10/2025 01:03:21 UTC
 <!--END_SECTION:waka-->
 
 💻 **Tech Skills**
