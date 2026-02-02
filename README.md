@@ -18,8 +18,6 @@
 <div align="center">
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%209%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -36,7 +34,7 @@ todoro                   2 hrs 9 mins        ███████████�
 ```
 
 
- Last Updated on 01/02/2026 01:48:34 UTC
+ Last Updated on 02/02/2026 01:29:12 UTC
 <!--END_SECTION:waka-->
 
 💻 **Tech Skills**
